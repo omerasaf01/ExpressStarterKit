@@ -1,0 +1,19 @@
+{
+    "Users": {
+        "1234": {
+            "Name": "Ahmet",
+            "Surname": "Bulutlu",
+            "Id": "1234"
+        },
+        "2345": {
+            "Name": "Mehmet",
+            "Surname": "Bulutlu",
+            "Id": "2345"
+        },
+        "3456": {
+            "Name": "Sadık",
+            "Surname": "Bulutlu",
+            "Id": "3456"
+        }
+    }
+}
